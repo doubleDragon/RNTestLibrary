@@ -1,4 +1,3 @@
-
 # react-native-my-library
 
 ## Getting started
